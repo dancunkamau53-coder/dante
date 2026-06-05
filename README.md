@@ -1,3 +1,3 @@
 # dante 
-Feature-rich WhatsApp bot supporting multiple sessions
+Feature-rich WhatsApp bot supporting multiple sessions                                                                                                                                           
 solving problems
